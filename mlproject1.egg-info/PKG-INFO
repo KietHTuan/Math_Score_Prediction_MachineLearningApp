@@ -6,3 +6,6 @@ Author-email: kiethoward@gmail.com
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: ipykernel
